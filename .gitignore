@@ -1,0 +1,6 @@
+/node_modules
+package-lock.json "node_modules"
+/src/constants/dmAccounts.ts
+/dist
+heroku-accounts.md
+**/.DS_Store
